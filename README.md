@@ -1,5 +1,5 @@
 # ReactNativeScreenUtil
-ReactNative屏幕工具适配类
+ReactNative屏幕适配工具类
 直接导入引用即可.
 新增iPhoneX适配, 让你不用升级ReactNative即可适配iPhoneX.
 
